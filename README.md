@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/yuva0612/LeetCode/tree/master/0155-min-stack) |
+## String
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/yuva0612/LeetCode/tree/master/0812-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/yuva0612/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
