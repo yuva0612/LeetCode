@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yuva0612/LeetCode/tree/master/0001-two-sum) |
+| [0747-min-cost-climbing-stairs](https://github.com/yuva0612/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/yuva0612/LeetCode/tree/master/0812-rotate-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/yuva0612/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
