@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yuva0612/LeetCode/tree/master/0001-two-sum) |
+| [0455-assign-cookies](https://github.com/yuva0612/LeetCode/tree/master/0455-assign-cookies) |
 | [0747-min-cost-climbing-stairs](https://github.com/yuva0612/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
@@ -44,8 +45,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/yuva0612/LeetCode/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/yuva0612/LeetCode/tree/master/0455-assign-cookies) |
 ## Counting
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/yuva0612/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/yuva0612/LeetCode/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/yuva0612/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
