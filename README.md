@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yuva0612/LeetCode/tree/master/0001-two-sum) |
 | [0389-find-the-difference](https://github.com/yuva0612/LeetCode/tree/master/0389-find-the-difference) |
+| [1297-maximum-number-of-balloons](https://github.com/yuva0612/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 ## Stack
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/yuva0612/LeetCode/tree/master/0389-find-the-difference) |
 | [0812-rotate-string](https://github.com/yuva0612/LeetCode/tree/master/0812-rotate-string) |
+| [1297-maximum-number-of-balloons](https://github.com/yuva0612/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 ## String Matching
 |  |
 | ------- |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/yuva0612/LeetCode/tree/master/0389-find-the-difference) |
+## Counting
+|  |
+| ------- |
+| [1297-maximum-number-of-balloons](https://github.com/yuva0612/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
