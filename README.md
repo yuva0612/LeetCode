@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yuva0612/LeetCode/tree/master/0001-two-sum) |
+| [0389-find-the-difference](https://github.com/yuva0612/LeetCode/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/yuva0612/LeetCode/tree/master/0389-find-the-difference) |
 | [0812-rotate-string](https://github.com/yuva0612/LeetCode/tree/master/0812-rotate-string) |
 ## String Matching
 |  |
@@ -30,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0747-min-cost-climbing-stairs](https://github.com/yuva0612/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/yuva0612/LeetCode/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/yuva0612/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
